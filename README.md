@@ -65,11 +65,11 @@ This chart show the block times over a couple of days scaled to show the one min
 
 **FTC medium term Block time variation 01/06/2016**
 
-![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime2Day.MediumTerm.jpg)  
+![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime24Hr.MediumTerm.jpg)  
 
 
 **FTC Scaled - medium term Block time variation 31/05/2016**
 
-![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime2Day.MediumTerm.Scaled.jpg)  
+![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime24Hr.MediumTerm.Scaled.jpg)  
 
 
