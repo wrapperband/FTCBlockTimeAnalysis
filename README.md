@@ -22,27 +22,54 @@ It may be that the current cycling nature is due to the variation being over 100
 
 It may also be that some pools do not have their time set correctly.
 
-The red line shows the reaction of the difficulty. Although there is always going to be a slight delay to reaction it appears to be as specified and succesfully increasing and reducing the Difficulty. The cycles show are 20 mins of hash rate of 400% normal.
+The red line shows the reaction of the difficulty. Although there is always going to be a slight delay to reaction it appears to be as specified and successfully increasing and reducing the Difficulty. The cycles show are 20 mins of hash rate of 400% normal.
 
 Analysis of TheBlockFactory showed it has a FTC Hash rate of 204 MHash/s compared to Overall FTC Hash rate of  654 MHash and "core p2pool" 10 - 50 MHash/s.
 
 However, it would apparently need 5 * 654 or 3,000 MHash/s to produce the variations observed.
+
+**FTC Difficulty variation 31/05/2016**
 
 ![alt tag](2016-05-31 FTCTransactionAnalysis/2016-05-31-FTCBlockDifficulty100Hr.ShortTerm.jpg)  
 
 
 The second chart shows the Time between blocks during a period of extreme hash rate change. FTC eHRC algorithm adjust the difficulty as hash changes to maintain a one minute block time.  Here the green line shows the time between each block, the red line shows the average trend of time for the period. Although when the high hash switches in time between block are low, it does quickly start to compensate and bring the block time back. Generally the high hashes are bellow 2 minutes although one block dis take 8 minutes at these extreme levels.
 
+**FTC short term Block time variation 31/05/2016**
+
 ![alt tag](2016-05-31 FTCTransactionAnalysis/2016-05-31-FTCBlockTime100Hr.ShortTerm.jpg)  
 
 This chart shows the difficulty medium term, over a couple of days. The block times are scattered around the average, just above one minute.
+
+**FTC medium term Block time variation 31/05/2016**
 
 ![alt tag](2016-05-31 FTCTransactionAnalysis/2016-05-31-FTCBlockTime2Day.MediumTerm.jpg)  
 
 
 This chart show the block times over a couple of days scaled to show the one minute detail.
 
+**FTC Scaled - medium term Block time variation 31/05/2016**
+
 ![alt tag](2016-05-31 FTCTransactionAnalysis/2016-05-31-FTCBlockTime2Day.MediumTerm.Scaled.jpg)  
 
+
+**2016-06-01 24 Hour - FTC Transaction Block time and difficulty adjustment Analysis**
+
+**FTC Difficulty variation 01/06/2016**
+
+![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockDifficulty100Hr.ShortTerm.jpg)  
+
+**FTC short term Block time variation 01/06/2016**
+
+![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime100Hr.ShortTerm.jpg)  
+
+**FTC medium term Block time variation 01/06/2016**
+
+![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime2Day.MediumTerm.jpg)  
+
+
+**FTC Scaled - medium term Block time variation 31/05/2016**
+
+![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime2Day.MediumTerm.Scaled.jpg)  
 
 
