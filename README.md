@@ -37,10 +37,10 @@ The second chart shows the Time between blocks during a period of extreme hash r
 
 Generally the high hashes are last bellow 2 minutes although one block does take 8 minutes at these extreme levels. A rough calibration of MHash/s per Difficulty 9 = 650 MHash/s, or 72 MHash per Difficulty. The Difficulty is seen to vary from 5 to 13, indicates a variation of global FTC hash rate  from 400 HMash/s to   940 MHash/s. That is a variation of 500 MHash/s
 
-
 **FTC short term Block time variation 31/05/2016**
 
 ![alt tag](2016-05-31 FTCTransactionAnalysis/2016-05-31-FTCBlockTime100Hr.ShortTerm.jpg)  
+
 
 This chart shows the difficulty medium term, over a couple of days. The block times are scattered around the average, just above one minute.
 
@@ -64,7 +64,13 @@ This chart show the block times over a couple of days scaled to show the one min
 
 **FTC short term Block time variation 01/06/2016**
 
-The short term analysis for the 01/06/2016 shows some variation in difficulty, not as extreme as 31st. It can also be seen that the blue diagonal - 1 minute line is straighter, showing the diagnol is an indicator of hash stability. 
+The short term analysis for the 01/06/2016 shows some variation in difficulty, not as extreme as 31st. It can also be seen that the blue diagonal - 1 minute line is straighter, showing the diagonal is an indicator of hash stability. 
+
+The high hash rate variability being experienced by FTC Blockchain, is producing excess short time blocks, which is being compensated by eHRC holding the average above 1 minute. For reviewing historical trends and future changes, the level above 1 minute indicate the extent eHCR is "damped" of delayed in action and will vary proportional to the hash rate variation.
+
+Although it would probably have a minimal effect, removing the difficulty damping and changing the short term average from 15 to 13 blocks, as originally specified for eHRC, would give a quicker response to FTC hash variations.
+
+Increasing the log term average to the original specification 2000 blocks would also help prevent the block time disparity dropping of the average time of the eHRC calculation.
 
 ![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime100Hr.ShortTerm.jpg)  
 
