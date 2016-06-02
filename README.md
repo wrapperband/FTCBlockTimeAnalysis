@@ -1,5 +1,5 @@
 # FTC Block Time Analysis
-Methodology and spreadsheet for graphical analysis of Bitcoin-abe Blockchain output
+Methodology and spreadsheet for graphical analysis of Bitcoin-abe Blockchain explorer output
  
 **2016-05-31 FTC Transaction Block time and difficulty adjustment Analysis**
 
@@ -26,7 +26,7 @@ The red line shows the reaction of the difficulty. Although there is always goin
 
 Analysis of TheBlockFactory showed it has a FTC Hash rate of 204 MHash/s compared to Overall FTC Hash rate of  654 MHash and "core p2pool" 10 - 50 MHash/s.
 
-However, it would apparently need 5 * 654 or 3,000 MHash/s to produce the variations observed.
+However, it would apparently need 3 * 654 or 2,500 MHash/s to produce some of the variations in Hash rate observed.
 
 **FTC Difficulty variation 31/05/2016**
 
