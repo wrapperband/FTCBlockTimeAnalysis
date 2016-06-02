@@ -33,7 +33,10 @@ However, it would apparently need 5 * 654 or 3,000 MHash/s to produce the variat
 ![alt tag](2016-05-31 FTCTransactionAnalysis/2016-05-31-FTCBlockDifficulty100Hr.ShortTerm.jpg)  
 
 
-The second chart shows the Time between blocks during a period of extreme hash rate change. FTC eHRC algorithm adjust the difficulty as hash changes to maintain a one minute block time.  Here the green line shows the time between each block, the red line shows the average trend of time for the period. Although when the high hash switches in time between block are low, it does quickly start to compensate and bring the block time back. Generally the high hashes are bellow 2 minutes although one block dis take 8 minutes at these extreme levels.
+The second chart shows the Time between blocks during a period of extreme hash rate change. FTC eHRC (Hash Rate Compensation) algorithm adjust the difficulty as hash changes to maintain a one minute block time.  Here the green line shows the time between each block, the red line shows the average trend of time for the period. Although when the high hash switches in time between block are low, it does quickly start to compensate and bring the block time back.  
+
+Generally the high hashes are last bellow 2 minutes although one block does take 8 minutes at these extreme levels. A rough calibration of MHash/s per Difficulty 9 = 650 MHash/s, or 72 MHash per Difficulty. The Difficulty is seen to vary from 5 to 13, indicates a variation of global FTC hash rate  from 400 HMash/s to   940 MHash/s. That is a variation of 500 MHash/s
+
 
 **FTC short term Block time variation 31/05/2016**
 
@@ -61,6 +64,8 @@ This chart show the block times over a couple of days scaled to show the one min
 
 **FTC short term Block time variation 01/06/2016**
 
+The short term analysis for the 01/06/2016 shows some variation in difficulty, not as extreme as 31st. It can also be seen that the blue diagonal - 1 minute line is straighter, showing the diagnol is an indicator of hash stability. 
+
 ![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime100Hr.ShortTerm.jpg)  
 
 **FTC medium term Block time variation 01/06/2016**
@@ -68,7 +73,7 @@ This chart show the block times over a couple of days scaled to show the one min
 ![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime24Hr.MediumTerm.jpg)  
 
 
-**FTC Scaled - medium term Block time variation 31/05/2016**
+**FTC Scaled - medium term Block time variation 01/06/2016**
 
 ![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime24Hr.MediumTerm.Scaled.jpg)  
 
