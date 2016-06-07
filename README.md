@@ -12,6 +12,22 @@ Data was extracted from the publicly available Feathercoin Blockchain Explorer, 
 
 http://explorer.feathercoin.com/chain/Feathercoin?hi=1232903&count=500
 
+Transaction Value compared to Fees
+
+Three days Blockchain data have been analysed in detail. 
+
+31/05/2016  
+Value of Transactions 58 times Value of Fees  
+Percentage Blocks with transactions 28%   
+
+01/06/2016
+Value of Transactions 38 times Value of Fees  
+Percentage Blocks with transactions 29%   
+
+06/06/2016
+Value of Transactions 5 times Value of Fees  
+Percentage Blocks with transactions 29%   
+
 **Short term analysis over 100 minutes**
 
 This chart shows how the difficulty adjusted during a 500% variation in FTC Hash rate. The blue diagonal line shows the block frequency against time. This should be a straight diagonal line in ideal situation.
@@ -85,5 +101,23 @@ Increasing the log term average to the original specification 2000 blocks would 
 **FTC Scaled - medium term Block time variation 01/06/2016**
 
 ![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime24Hr.MediumTerm.Scaled.jpg)  
+
+
+**2016-06-06 24 Hour - FTC Transaction Block time and difficulty adjustment Analysis**
+
+**FTC Difficulty variation 06/06/2016**
+
+![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockDifficulty100Hr.ShortTerm.jpg)  
+
+**FTC short term Block time variation 06/06/2016**
+
+
+![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockTime100Hr.ShortTerm.jpg)  
+
+**FTC medium term Block time variation 06/06/2016**
+
+![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockTime24Hr.MediumTerm.jpg)  
+
+
 
 
