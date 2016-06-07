@@ -20,11 +20,11 @@ Three days Blockchain data have been analysed in detail.
 Value of Transactions 58 times Value of Fees  
 Percentage Blocks with transactions 28%   
 
-01/06/2016
+01/06/2016  
 Value of Transactions 38 times Value of Fees  
 Percentage Blocks with transactions 29%   
 
-06/06/2016
+06/06/2016  
 Value of Transactions 5 times Value of Fees  
 Percentage Blocks with transactions 29%   
 
@@ -62,10 +62,13 @@ The Difficulty is seen to vary from 5 to 13, indicates a variation of global FTC
 
 **FTC Medium term Difficulty variation 31/05/2016**
 
+This chart shows the difficulty medium term, over a couple of days. The maximum Difficulty is 25, with an average of about 10. The blue line shows the block height increasing, the straighter that line is, the more regular the block production.
+
+
 ![alt tag](2016-05-31 FTCTransactionAnalysis/2016-05-31-FTCBlockDifficulty2Day.MediumTerm.jpg)  
 
 
-This chart shows the difficulty medium term, over a couple of days. The block times are scattered around the average, just above one minute.
+The block times are scattered around the average, just above one minute.
 
 **FTC medium term Block time variation 31/05/2016**
 
@@ -100,6 +103,9 @@ Increasing the log term average to the original specification 2000 blocks would 
 
 **FTC Medium term Difficulty variation 01/06/2016**
 
+The chart shows the difficulty variation over ~24 hours, 1800 transactions. For this period, on the 1st June 2016, the maximum Difficulty was 17 and the average was 8. The variation and peak levels being less than the 31st, the variation of hash was less as well, being between 5 and 12.
+
+
 ![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockDifficulty24Hr.MediumTerm.jpg)  
 
 
@@ -119,20 +125,19 @@ Increasing the log term average to the original specification 2000 blocks would 
 
 ![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockDifficulty100Hr.ShortTerm.jpg)  
 
-
-**FTC Medium term Difficulty variation 06/06/2016**
-
-![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockDifficulty24Hr.MediumTerm.jpg)  
-
-
 **FTC short term Block time variation 06/06/2016**
 
 ![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockTime100Hr.ShortTerm.jpg)  
 
+
+**FTC Medium term Difficulty variation 06/06/2016**
+
+For this 24 Hour period on 6th June 2016 the peak difficulty was 19, the average is 7. The variation in difficulty was generally between 4 and 10.
+
+![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockDifficulty24Hr.MediumTerm.jpg)  
+
+
 **FTC medium term Block time variation 06/06/2016**
 
 ![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockTime24Hr.MediumTerm.jpg)  
-
-
-
 
