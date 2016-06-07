@@ -24,7 +24,7 @@ It may also be that some pools do not have their time set correctly.
 
 The red line shows the reaction of the difficulty. Although there is always going to be a slight delay to reaction it appears to be as specified and successfully increasing and reducing the Difficulty. The cycles show are 20 mins of hash rate of 400% normal.
 
-Analysis of TheBlockFactory showed it has a FTC Hash rate of 204 MHash/s compared to Overall FTC Hash rate of  654 MHash and "core p2pool" 10 - 50 MHash/s.
+Analysis of TheBlockFactory showed it has a FTC Hash rate of 204 MHash/s compared to Overall FTC Hash rate of  654 MHash/s and "core p2pool" 10 - 50 MHash/s.
 
 However, it would apparently need 3 * 654 or 2,500 MHash/s to produce some of the variations in Hash rate observed.
 
@@ -69,7 +69,7 @@ The Difficulty is seen to vary from 5 to 10, indicates a variation of global FTC
 
 The short term analysis for the 01/06/2016 shows some variation in difficulty, not as extreme as 31st. It can also be seen that the blue diagonal - 1 minute line is straighter, showing the diagonal is an indicator of hash stability. 
 
-The high hash rate variability being experienced by FTC Blockchain, is producing excess short time blocks, which is being compensated by eHRC holding the average above 1 minute. For reviewing historical trends and future changes, the level above 1 minute indicate the extent eHCR is "damped" of delayed in action and will vary proportional to the hash rate variation.
+The high hash rate variability being experienced by FTC Blockchain, is producing excess short time blocks, which is being compensated by eHRC holding the average above 1 minute. For reviewing historical trends and future changes, the level above 1 minute indicate the extent eHRC is "damped" of delayed in action and will vary proportional to the hash rate variation.
 
 Although it would probably have a minimal effect, removing the difficulty damping and changing the short term average from 15 to 13 blocks, as originally specified for eHRC, would give a quicker response to FTC hash variations.
 
