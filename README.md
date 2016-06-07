@@ -100,7 +100,7 @@ Increasing the log term average to the original specification 2000 blocks would 
 
 **FTC Medium term Difficulty variation 01/06/2016**
 
-![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockDifficulty2Day.MediumTerm.jpg)  
+![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockDifficulty24Hr.MediumTerm.jpg)  
 
 
 **FTC medium term Block time variation 01/06/2016**
@@ -122,7 +122,7 @@ Increasing the log term average to the original specification 2000 blocks would 
 
 **FTC Medium term Difficulty variation 06/06/2016**
 
-![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockDifficulty2Day.MediumTerm.jpg)  
+![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockDifficulty24Hr.MediumTerm.jpg)  
 
 
 **FTC short term Block time variation 06/06/2016**
