@@ -60,6 +60,11 @@ The Difficulty is seen to vary from 5 to 13, indicates a variation of global FTC
 ![alt tag](2016-05-31 FTCTransactionAnalysis/2016-05-31-FTCBlockTime100Hr.ShortTerm.jpg)  
 
 
+**FTC Medium term Difficulty variation 31/05/2016**
+
+![alt tag](2016-05-31 FTCTransactionAnalysis/2016-05-31-FTCBlockDifficulty2Day.MediumTerm.jpg)  
+
+
 This chart shows the difficulty medium term, over a couple of days. The block times are scattered around the average, just above one minute.
 
 **FTC medium term Block time variation 31/05/2016**
@@ -93,6 +98,11 @@ Increasing the log term average to the original specification 2000 blocks would 
 
 ![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime100Hr.ShortTerm.jpg)  
 
+**FTC Medium term Difficulty variation 01/06/2016**
+
+![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockDifficulty2Day.MediumTerm.jpg)  
+
+
 **FTC medium term Block time variation 01/06/2016**
 
 ![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime24Hr.MediumTerm.jpg)  
@@ -109,8 +119,13 @@ Increasing the log term average to the original specification 2000 blocks would 
 
 ![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockDifficulty100Hr.ShortTerm.jpg)  
 
-**FTC short term Block time variation 06/06/2016**
 
+**FTC Medium term Difficulty variation 06/06/2016**
+
+![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockDifficulty2Day.MediumTerm.jpg)  
+
+
+**FTC short term Block time variation 06/06/2016**
 
 ![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockTime100Hr.ShortTerm.jpg)  
 
