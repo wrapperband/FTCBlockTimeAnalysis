@@ -12,7 +12,7 @@ Data was extracted from the publicly available Feathercoin Blockchain Explorer, 
 
 http://explorer.feathercoin.com/chain/Feathercoin?hi=1232903&count=500
 
-Transaction Value compared to Fees
+**Transaction Value compared to Fees and Percentage blocks with a Transaction**
 
 Three days Blockchain data have been analysed in detail. 
 
