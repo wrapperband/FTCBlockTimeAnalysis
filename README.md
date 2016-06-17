@@ -51,7 +51,9 @@ However, it would apparently need 3 * 654 or 2,500 MHash/s to produce some of th
 
 The second chart shows the Time between blocks during a period of extreme hash rate change. FTC eHRC (Hash Rate Compensation) algorithm adjust the difficulty as hash changes to maintain a one minute block time.  Here the green line shows the time between each block, the red line shows the average trend of time for the period. Although when the high hash switches in time between block are low, it does quickly start to compensate and bring the block time back.  
 
-Generally the high hashes are last bellow 2 minutes although one block does take 8 minutes at these extreme levels. A rough calibration of MHash/s per Difficulty 9 = 650 MHash/s, or 72 MHash per Difficulty. 
+Generally the high block times are last bellow 2 minutes although one block does take 8 minutes at these extreme levels. 
+
+A rough calibration of MHash/s per Difficulty 9 = 650 MHash/s, or 72 MHash per 1 Difficulty. 
 
 The Difficulty is seen to vary from 5 to 13, indicates a variation of global FTC hash rate  from 400 HMash/s to   940 MHash/s. That is a variation of 500 MHash/s
 
