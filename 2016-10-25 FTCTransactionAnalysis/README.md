@@ -1,4 +1,4 @@
-# FTC Block Time Analysis due to increase in Hash Rate 16/06/2016
+# FTC Block Time Analysis due to increase in Hash Rate 25/10/2016
 
 @wrapper **Feathercoin - Analysis of attempted, maximum Transactions block attack / Dustcoin settings - 25/10/2016**
 
@@ -41,3 +41,15 @@ This charts shows the transaction peak at 25/10/2016 :
 
 **Feathercoin Value of Transactions - Unscaled**   
 ![Transaction value](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-25-FTCBlockValue24hrs.WithValue.jpg?raw=true)
+
+
+**Feathercoin Number of Transactions - Scaled**   
+![Frequency of Transactions](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-25-FTCBlockTransactions24hrs.scaled.jpg?raw=true)  
+ 
+
+**Feathercoin Value of Transactions - Scaled**   
+![Transaction value](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-25-FTCBlockValue24hrs.scaled.jpg?raw=true)
+
+
+**Feathercoin Difficulty over 3 hrs early 26/10/2015**   
+![Transaction value](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-26-FTCBlockDifficulty3hrs.ShortTerm.jpg?raw=true)
