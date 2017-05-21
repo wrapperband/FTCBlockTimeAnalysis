@@ -5,7 +5,7 @@ https://github.com/wrapperband/FTCBlockTimeAnalysis/tree/master/2016-10-25%20FTC
 
 **Overview of the 50 Hour period up to 21/5/2017**
 
-**FTC Fees over 24 Hours**  	223920	
+**FTC Fees over 48 Hours**  	223920	
 **Transactions less fees**		83186838.30	
 371 %	**Transaction to Fee ratio**	
 **Percentage with Transaction**	51.00	
