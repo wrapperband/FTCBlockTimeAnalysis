@@ -13,7 +13,7 @@ https://github.com/wrapperband/FTCBlockTimeAnalysis/tree/master/2016-10-25%20FTC
 **Temporal Anomalies** 
 
  
-| Block       |     Time             |       Trans no.  |    Value           |          Diff      | CoinDaysDest  |  Time  |   TranTrue  |  TimeAnomly |           
+| Block       |     Time             |       Trans no.  |    Value           |          Diff      | CoinDaysDest  |  Time  |   TranTrue  |  TimeAnomaly |           
 | ---------------- |  ----------------------------------------- |  ----------  |  -------------- |  ----------------- | ---------------------- |  ------------ |  --------- | ---------------- |
 | 1439647    |    2016-10-25 23:51:26    |    2    |    1139.14681824    |    7.15    |    121.79    |    02:00    |    1    |    
 | 1439646    |    2016-10-25 23:49:26    |    1    |    80    |    7.27    |    0    |    02:01    |    0    |    1
@@ -50,5 +50,9 @@ https://github.com/wrapperband/FTCBlockTimeAnalysis/tree/master/2016-10-25%20FTC
 ![Transaction value](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-25-FTCBlockValue24hrs.scaled.jpg?raw=true)
 
 
-**Feathercoin Difficulty over 3 hrs early 26/10/2015**   
+**Feathercoin Difficulty over 3 hrs early 26/10/2016**   
 ![Transaction value](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-26-FTCBlockDifficulty3hrs.ShortTerm.jpg?raw=true)
+
+
+**Feathercoin Block Time Average 110 Blocks 26/10/2016**   
+![Transaction value](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-25-FTCBlockTime24hrs.10BlockAvg.jpg?raw=true)
