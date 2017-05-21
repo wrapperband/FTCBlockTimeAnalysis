@@ -1,7 +1,30 @@
-@wrapper **Feathercoin - Feathercoin - Analysis of Block Time, Difficulty and Transactions quantity and values 48 Hours … 19th to 21/5/2017**
+**Feathercoin - Feathercoin - Analysis of Block Time, Difficulty and Transactions quantity and values.**  
+
+**Overview aand Conclusions**
+
+This analysis is a routine check of blockchain timings and activity. Over  48 Hours … from 19th to 21/5/2017
+
+The average block time over 48hrs is good at 1:02
+
+The charts are showing a positive increase in transactions / transaction values / amounts and baseline mining over the previous analysis.
+The percentage of blocks with transactions has increase  to 50% of block. The transfer to fee rate is also higher at 371%
+
+
+@wrapper 
 
 The analysis is ongoing but the preliminary data analysis is on Github : 
 https://github.com/wrapperband/FTCBlockTimeAnalysis/tree/master/2017-05-21%20FTCTransactionAnalysis  
+
+*Feathercoin Block Analysis**
+
+FTC is routinely analysed if there are any concerns. These analysis are stored on Github to use as templates or review historical analysis.
+
+Values of the parameters analysed can be extracted from FTC debug file. The ABE software used to produce sites such as http://explorer.feathercoin.com/chain/Feathercoin?hi=1721682&count=1000 does some of this work for you, so for sporadic analysis of a few days it is convenient to scrape the data from there.
+Normally the web site displays up to 100 blocks but this can be expanded manually.
+
+The data is accumulated in a text document, then pasted into the spreadsheet template from the last analysis. Charts and calculations data ranges are corrected as required.
+
+
 
 **Overview of the 50 Hour period up to 21/5/2017**
 
@@ -22,9 +45,9 @@ https://github.com/wrapperband/FTCBlockTimeAnalysis/tree/master/2017-05-21%20FTC
 
 **Feathercoin Price charts**
 
-Monitoring the FTC price chart on https://bitinfocharts.com/feathercoin/ , showed some anomolis with the Bitcoin to FTC price. The USD to BTC price had tracked up untill recently and had devided, possibly due to a BTC price drop. That requires more in depth analysis as it may be due to trading iin a third currency by the main exchanges. 
+Monitoring the FTC price chart on https://bitinfocharts.com/feathercoin/ , showed some anomalies with the Bitcoin to FTC price. The USD to BTC price had tracked up until recently and had divided, possibly due to a BTC price drop. That requires more in depth analysis as it may be due to trading in a third currency by the main exchanges. 
 
-The expanding and high levels and novel variation promted the analysis.
+The expanding and high levels and novel variation prompted the analysis.
 
 ![Transaction Peak](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-05-21%20FTCTransactionAnalysis/FTCPrice_162139.png?raw=true)
 
@@ -45,7 +68,7 @@ Comparing this to previous charts the average difficulty, and the rate and frequ
 
 In this chart the green lines show the actual block times. In this case there was one high block times > 10 mins, and there were more block times > 8 mins than usually seen.
 
-Comparing block time chart to the 25/10/2017, for instance, there seems to ba a lot more 6 min blocks than usual. 
+Comparing block time chart to the 25/10/2017, for instance, there seems to be a lot more 5:30 min blocks than usual. 
 
 ![Block Times ](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-05-21%20FTCTransactionAnalysis/2017-05-21-FTCBlockTimes2Day.MediumTerm.jpg?raw=true)    
 
