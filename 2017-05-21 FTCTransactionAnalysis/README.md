@@ -1,7 +1,7 @@
-@wrapper **Feathercoin - Analysis of attempted, maximum Transactions block Time - 21/5/2017**
+@wrapper **Feathercoin - Feathercoin - Analysis of Block Time, Difficulty and Transactions quantity and values 48 Hours … 19th to 21/5/2017**
 
 The analysis is ongoing but the preliminary data analysis is on Github : 
-https://github.com/wrapperband/FTCBlockTimeAnalysis/tree/master/2016-10-25%20FTCTransactionAnalysis  
+https://github.com/wrapperband/FTCBlockTimeAnalysis/tree/master/2017-05-21%20FTCTransactionAnalysis  
 
 **Overview of the 50 Hour period up to 21/5/2017**
 
@@ -23,28 +23,24 @@ https://github.com/wrapperband/FTCBlockTimeAnalysis/tree/master/2016-10-25%20FTC
 
 **Feathercoin Difficulty**   
 
-This chart shows the variation difficulty as the hash rate of different (coin switching)  pools is directed a FTC. The red chart is seen to vary cyclicly at about 15 minutes.
+This chart shows the variation difficulty as the hash rate of different (coin switching)  pools is directed towards FTC. The red chart is seen to vary cyclically  at about 15 minutes.
 
 The blue raising line is the block against time. The less variation in has, the straighter this line will be, so it is an indicator of how much the difficulty calculator (eHRC) is being stressed.
+
+Comparing this to previous charts the average difficulty, and the rate and frequency of variation have increased. It looks like there are more switching pools forming some more complex time signature paterns. 
 
 
 ![Transaction Peak](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-05-21%20FTCTransactionAnalysis/2017-05-21-FTCDifficulty2Day.MediumTerm.jpg?raw=true)  
   
 **Feathercoin Block Times**  
 
-In this chart the green lines show the actual block times. In this case there were no very high block times > 10 mins, but there were more block times > 8 mins than usual.
+In this chart the green lines show the actual block times. In this case there was one high block times > 10 mins, and there were more block times > 8 mins than usually seen.
 
-![Block Times ]( )    
+Comparing block time chart to the 25/10/2017, for instance, there seems to ba a lot more 6 min blocks than usual. 
 
-**Feathercoin Number of Transactions - Unscaled**   
+![Block Times ](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-05-21%20FTCTransactionAnalysis/2017-05-21-FTCBlockTimes2Day.MediumTerm.jpg?raw=true)    
 
-This is a new chart to analyse the high level of transactions on 25/10/2017. In can be seen there are multiple attempts to spent thousands of dust coins. The number of transactions maxed out per block at 1100. The size of an extracted csv file of 24 hours data was 25 MB, hinting a a possible test of transaction limits.
-This would need re testeing on the test network, as the max transaction per block seen, it may be a function of the dust coin script that was run.
-
-![Frequency of Transactions]( )  
- 
-
-**Feathercoin Value of Transactions - Unscaled**   
+**Feathercoin Number of Transactions - Unscaled**
 
 This shows the value of the transactions.
 
