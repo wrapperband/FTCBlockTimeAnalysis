@@ -72,35 +72,30 @@ Comparing block time chart to the 25/10/2017, for instance, there seems to be a 
 
 ![Block Times ](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-05-21%20FTCTransactionAnalysis/2017-05-21-FTCBlockTimes2Day.MediumTerm.jpg?raw=true)    
 
-**Feathercoin Number of Transactions - Unscaled**
 
-This shows the value of the transactions.
-
-![Transaction value]( )
-
-
-**Feathercoin Number of Transactions - Scaled**   
+**Feathercoin Number of Transactions**   
 
 This chart shows the normal level of transactions, scaled down.
-![Frequency of Transactions]( )  
+![Frequency of Transactions](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-05-21%20FTCTransactionAnalysis/2017-05-21-FTCTransactions2Day.MediumTerm.jpg?raw=true)  
  
 
-**Feathercoin Value of Transactions - Scaled**   
+**Feathercoin Value of Transactions**   
 
-This scaled chart shows the normal value of transactions level. 
+This scaled chart shows the value of transactions level. 
 
-![Transaction value]( )
+![Transaction value](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-05-21%20FTCTransactionAnalysis/2017-05-21-FTCValue2Day.MediumTerm.jpg?raw=true)
+
+
+
+**Feathercoin Block Time Average 110 Blocks 26/10/2016**   
+
+The average block time for the 50 hrs was normal.
+
+![Transaction value](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-05-21%20FTCTransactionAnalysis/2017-05-21-FTCBlockTimes2Day.10BlockAverage.jpg?raw=true)
 
 
 **Feathercoin Difficulty over 3 hrs early 26/10/2016**   
 
 This chart shows one of the tempoaral anomalies aftet 25/10/2016 at 11:pm till 2:45am. It is a close up of difficulty variation, over 3 hrs or so. 
-
-![Transaction value]( )
-
-
-**Feathercoin Block Time Average 110 Blocks 26/10/2016**   
-
-The average block time for the 24 hrs was (anomously) high, possibly due to difficulties averaging time. To confirm / check that a chart of the block time averaged was OK, a new chart was created averaged over 10 blocks.
 
 ![Transaction value]( )
