@@ -20,6 +20,15 @@ https://github.com/wrapperband/FTCBlockTimeAnalysis/tree/master/2017-05-21%20FTC
 |   |    |    |    |   |   |   |   |
 
 
+**Feathercoin Price charts**
+
+Monitoring the FTC price chart on https://bitinfocharts.com/feathercoin/ , showed some anomolis with the Bitcoin to FTC price. The USD to BTC price had tracked up untill recently and had devided, possibly due to a BTC price drop. That requires more in depth analysis as it may be due to trading iin a third currency by the main exchanges. 
+
+The expanding and high levels and novel variation promted the analysis.
+
+![Transaction Peak](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-05-21%20FTCTransactionAnalysis/FTCPrice_162139.png?raw=true)
+
+ 
 
 **Feathercoin Difficulty**   
 
