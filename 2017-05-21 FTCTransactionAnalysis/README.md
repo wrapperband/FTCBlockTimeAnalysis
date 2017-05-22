@@ -24,6 +24,8 @@ Normally the web site displays up to 100 blocks but this can be expanded manuall
 
 The data is accumulated in a text document, then pasted into the spreadsheet template from the last analysis. Charts and calculations data ranges are corrected as required.
 
+There were no suspicious time anomolies in the blockchain timings for the 50 hour test peroid. All 3 time anomalies were Blocks with the same time.
+
 
 
 **Overview of the 50 Hour period up to 21/5/2017**
@@ -40,7 +42,18 @@ The data is accumulated in a text document, then pasted into the spreadsheet tem
  
 | Block       |     Time             |       Trans no.  |    Value           |          Diff      | CoinDaysDest  |  Time  |   TranTrue  |  TimeAnomaly |           
 | ---------------- |  ----------------------------------------- |  ----------  |  -------------- |  ----------------- | ---------------------- |  ------------ |  --------- | ---------------- |
+| 1724191   |    2017-05-21 10:02:52   |    2   |    216.05   |    9.83   |    12.42   |    00:57   |    1   |    
+| 1724190   |    2017-05-21 10:01:55   |    1   |    80   |    9.837   |    0   |    00:00   |    0   |    1
+| 1724189   |    2017-05-21 10:01:55   |    1   |    80   |    10.001   |    0   |    00:33   |    0   |    
 |   |    |    |    |   |   |   |   |
+| 1723314   |    2017-05-20 18:33:27   |    1   |    80   |    21.076   |    0   |    00:05   |    0   |    
+| 1723313   |    2017-05-20 18:33:22   |    1   |    80   |    19.671   |    0   |    00:00   |    0   |    1
+| 1723312   |    2017-05-20 18:33:22   |    1   |    80   |    18.359   |    0   |    00:08   |    0   |    
+|   |    |    |    |   |   |   |   |
+| 1722811   |    2017-05-20 10:03:41   |    2   |    25689.66   |    9.66   |    171.62   |    00:49   |    1   |    
+| 1722810   |    2017-05-20 10:02:52   |    1   |    80   |    9.666   |    0   |    00:00   |    0   |    1
+| 1722809   |    2017-05-20 10:02:52   |    1   |    80   |    9.666   |    0   |    00:15   |    0   |    
+
 
 
 **Feathercoin Price charts**
