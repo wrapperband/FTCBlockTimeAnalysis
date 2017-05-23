@@ -70,11 +70,19 @@ This shows the value of the transactions.
 
 ![Transaction value](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-25-FTCBlockValue24hrs.WithValue.jpg?raw=true)
 
+
 **Feathercoin Number of Transactions - Zoomed into 3pm to 9pm 25/10/2016**   
 
 This chart shows the high level of transactions, zoomed in to 3pm to 9pm. 
 
 ![Frequency of Transactions](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-25-FTCTransactions-3-9pm.jpg?raw=true)  
+
+
+**Feathercoin Difficulty - - Zoomed into 3pm to 9pm 25/10/2016**   
+
+This chart shows the variation difficulty zoomed into the dustcoin event.
+
+![Transaction Peak](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-25-FTCBlockDifficulty3-9pm.jpg?raw=true)  
 
 
 **Feathercoin Number of Transactions - Scaled**   
