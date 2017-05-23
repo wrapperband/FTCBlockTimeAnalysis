@@ -134,11 +134,10 @@ The average block time for the 24 hrs was (anomously) high, possibly due to diff
 
 **Feathercoin Difficulty zoomed in to 9-11:30pm  25/10/2016**   
 
+The high value event does not seem to be co-incident with a high hash event. Perhaps a reason multipools should review their policy, the algoryths make the assumption the block fee is the only income.
+
 
 ![Transaction value](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-25-FTCBlockDifficulty9-11.30pm.jpg?raw=true)
-
-
-
 
 
 
