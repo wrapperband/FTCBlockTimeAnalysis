@@ -2,9 +2,9 @@
 
 **Overview and Conclusions**
 
-This analysis is a investigation of FTC blockchain timings and activity. Over  24 Hours … from 25/10/2016, triggered my a transaction number peak level on that day.
+This analysis is a investigation of FTC blockchain timings and activity. Over  24 Hours … from 25/10/2016, triggered by a transaction number peak level on that day.
 
-The high level of transactions on 25/10/2017 were analysed. In can be seen there are multiple attempts to spent thousands of dust coins. The number of transactions maxed out per block at 1100. This would need re testeing on the test network, but the max transaction per block seen, is probably a function of the dust coin script that was run and fund limits.
+The high level of transactions on 25/10/2017 were analysed. In can be seen there are multiple attempts to spent thousands of dust coins. The number of transactions maxed out per block at 1100. This would need re-testeing on the test network, but the max transaction per block seen, is probably a function of the dust coin script that was run and fund limits.
 
 The dustcoin event started at 3:00pm 25/10/2016 and ended at 21:00pm 25/10/2016. It effected blocks 1439149 to 1439500.
 
