@@ -70,6 +70,12 @@ This shows the value of the transactions.
 
 ![Transaction value](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-25-FTCBlockValue24hrs.WithValue.jpg?raw=true)
 
+**Feathercoin Number of Transactions - Zoomed into 3pm to 9pm 25/10/2016**   
+
+This chart shows the high level of transactions, zoomed in to 3pm to 9pm. 
+
+![Frequency of Transactions](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-25-FTCTransactions-3-9pm.jpg?raw=true)  
+
 
 **Feathercoin Number of Transactions - Scaled**   
 
@@ -96,7 +102,6 @@ This chart shows one of the tempoaral anomalies aftet 25/10/2016 at 11:pm till 2
 The average block time for the 24 hrs was (anomously) high, possibly due to difficulties averaging time. To confirm / check that a chart of the block time averaged was OK, a new chart was created averaged over 10 blocks.
 
 ![Transaction value](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-25-FTCBlockTime24hrs.10BlockAvg.jpg?raw=true)
-
 
 
 
