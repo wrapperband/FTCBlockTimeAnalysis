@@ -92,6 +92,12 @@ This chart shows Block times during the high level of transactions, zoomed in to
 ![Frequency of Transactions](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-25-FTCBlockTime24hrs.309pm.jpg?raw=true)  
 
 
+**Feathercoin Transaction Values - Zoomed to 3-9pm  25/10/2016**   
+
+This chart shows Transaction Values during the high level of transactions, zoomed in to 3pm to 9pm. 
+
+![Frequency of Transactions](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-25-FTCBlockValue3-9pm.jpg?raw=true)  
+
 
 **Feathercoin Number of Transactions - Scaled**   
 
