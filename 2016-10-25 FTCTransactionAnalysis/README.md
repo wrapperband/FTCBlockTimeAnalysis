@@ -1,7 +1,17 @@
-@wrapper **Feathercoin - Analysis of attempted, maximum Transactions block attack / Dustcoin settings - 25/10/2016**
+@wrapper **Feathercoin - Analysis of attempted, maximum Transactions block attack / Dustcoin settings probe - 25/10/2016**
 
-The analysis is ongoing but the preliminary data analysis is on Github : 
-https://github.com/wrapperband/FTCBlockTimeAnalysis/tree/master/2016-10-25%20FTCTransactionAnalysis  
+**Overview and Conclusions**
+
+This analysis is a investigation of FTC blockchain timings and activity. Over  24 Hours … from 25/10/2016, triggered my a transaction number peak level on that day.
+
+The high level of transactions on 25/10/2017 were analysed. In can be seen there are multiple attempts to spent thousands of dust coins. The number of transactions maxed out per block at 1100. This would need re testeing on the test network, but the max transaction per block seen, is probably a function of the dust coin script that was run and fund limits.
+
+The average block time over 24hrs is bad at 2:00
+
+The charts are showing a positive increase in transactions / transaction values / amounts and baseline mining over the previous analysis.
+The percentage of blocks with transactions has increase compared to previous analysis, up  to 34% of block from 25%. The transfer to fee rate is up at 9%.
+Transactions less fees also show a positive increase.
+
 
 **Overview of the 24 Hour period 25/10/2016**
  
@@ -83,3 +93,9 @@ This chart shows one of the tempoaral anomalies aftet 25/10/2016 at 11:pm till 2
 The average block time for the 24 hrs was (anomously) high, possibly due to difficulties averaging time. To confirm / check that a chart of the block time averaged was OK, a new chart was created averaged over 10 blocks.
 
 ![Transaction value](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-10-25%20FTCTransactionAnalysis/2016-10-25-FTCBlockTime24hrs.10BlockAvg.jpg?raw=true)
+
+
+
+
+[Referances] The analysis is ongoing but the preliminary data analysis is on Github : 
+https://github.com/wrapperband/FTCBlockTimeAnalysis/tree/master/2016-10-25%20FTCTransactionAnalysis  )
