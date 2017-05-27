@@ -46,7 +46,7 @@ However, it would apparently need 3 * 654 or 2,500 MHash/s to produce some of th
 
 **FTC Difficulty variation 31/05/2016**
 
-![alt tag](2016-05-31 FTCTransactionAnalysis/2016-05-31-FTCBlockDifficulty100Hr.ShortTerm.jpg)  
+![alt tag](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-05-31%20FTCTransactionAnalysis/2016-05-31-FTCBlockDifficulty100Hr.ShortTerm.jpg?raw=true)  
 
 
 The second chart shows the Time between blocks during a period of extreme hash rate change. FTC eHRC (Hash Rate Compensation) algorithm adjust the difficulty as hash changes to maintain a one minute block time.  Here the green line shows the time between each block, the red line shows the average trend of time for the period. Although when the high hash switches in time between block are low, it does quickly start to compensate and bring the block time back.  
@@ -59,7 +59,7 @@ The Difficulty is seen to vary from 5 to 13, indicates a variation of global FTC
 
 **FTC short term Block time variation 31/05/2016**
 
-![alt tag](2016-05-31 FTCTransactionAnalysis/2016-05-31-FTCBlockTime100Hr.ShortTerm.jpg)  
+![alt tag](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-05-31%20FTCTransactionAnalysis/2016-05-31-FTCBlockTime100Hr.ShortTerm.jpg?raw=true)  
 
 
 **FTC Medium term Difficulty variation 31/05/2016**
@@ -67,21 +67,21 @@ The Difficulty is seen to vary from 5 to 13, indicates a variation of global FTC
 This chart shows the difficulty medium term, over a couple of days. The maximum Difficulty is 25, with an average of about 10. The blue line shows the block height increasing, the straighter that line is, the more regular the block production.
 
 
-![alt tag](2016-05-31 FTCTransactionAnalysis/2016-05-31-FTCBlockDifficulty2Day.MediumTerm.jpg)  
+![alt tag](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-05-31%20FTCTransactionAnalysis/2016-05-31-FTCBlockDifficulty2Day.MediumTerm.jpg?raw=true)  
 
 
 The block times are scattered around the average, just above one minute.
 
 **FTC medium term Block time variation 31/05/2016**
 
-![alt tag](2016-05-31 FTCTransactionAnalysis/2016-05-31-FTCBlockTime2Day.MediumTerm.jpg)  
+![alt tag](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-05-31%20FTCTransactionAnalysis/2016-05-31-FTCBlockTime2Day.MediumTerm.jpg?raw=true)  
 
 
 This chart show the block times over a couple of days scaled to show the one minute detail.
 
 **FTC Scaled - medium term Block time variation 31/05/2016**
 
-![alt tag](2016-05-31 FTCTransactionAnalysis/2016-05-31-FTCBlockTime2Day.MediumTerm.Scaled.jpg)  
+![alt tag](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-05-31%20FTCTransactionAnalysis/2016-05-31-FTCBlockTime2Day.MediumTerm.Scaled.jpg?raw=true)  
 
 The Difficulty is seen to vary from 5 to 10, indicates a variation of global FTC hash rate  from 400 HMash/s to   800 MHash/s. That is a variation of 400 MHash/s
 
@@ -89,7 +89,7 @@ The Difficulty is seen to vary from 5 to 10, indicates a variation of global FTC
 
 **FTC Difficulty variation 01/06/2016**
 
-![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockDifficulty100Hr.ShortTerm.jpg)  
+![alt tag](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-06-01%20FTCTransactionAnalysis/2016-06-01-FTCBlockDifficulty100Hr.ShortTerm.jpg?raw=true)  
 
 **FTC short term Block time variation 01/06/2016**
 
@@ -101,45 +101,45 @@ Although it would probably have a minimal effect, removing the difficulty dampin
 
 Increasing the log term average to the original specification 2000 blocks would also help prevent the block time disparity dropping of the average time of the eHRC calculation.
 
-![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime100Hr.ShortTerm.jpg)  
+![alt tag](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-06-01%20FTCTransactionAnalysis/2016-06-01-FTCBlockTime100Hr.ShortTerm.jpg?raw=true)  
 
 **FTC Medium term Difficulty variation 01/06/2016**
 
 The chart shows the difficulty variation over ~24 hours, 1800 transactions. For this period, on the 1st June 2016, the maximum Difficulty was 17 and the average was 8. The variation and peak levels being less than the 31st, the variation of hash was less as well, being between 5 and 12.
 
 
-![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockDifficulty24Hr.MediumTerm.jpg)  
+![alt tag](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-06-01%20FTCTransactionAnalysis/2016-06-01-FTCBlockDifficulty24Hr.MediumTerm.jpg?raw=true)  
 
 
 **FTC medium term Block time variation 01/06/2016**
 
-![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime24Hr.MediumTerm.jpg)  
+![alt tag](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-06-01%20FTCTransactionAnalysis/2016-06-01-FTCBlockTime24Hr.MediumTerm.jpg?raw=true)  
 
 
 **FTC Scaled - medium term Block time variation 01/06/2016**
 
-![alt tag](2016-06-01 FTCTransactionAnalysis/2016-06-01-FTCBlockTime24Hr.MediumTerm.Scaled.jpg)  
+![alt tag](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-06-01%20FTCTransactionAnalysis/2016-06-01-FTCBlockTime24Hr.MediumTerm.Scaled.jpg?raw=true)  
 
 
 **2016-06-06 24 Hour - FTC Transaction Block time and difficulty adjustment Analysis**
 
 **FTC Difficulty variation 06/06/2016**
 
-![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockDifficulty100Hr.ShortTerm.jpg)  
+![alt tag](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-06-06%20FTCTransactionAnalysis/2016-06-06-FTCBlockDifficulty100Hr.ShortTerm.jpg?raw=true)  
 
 **FTC short term Block time variation 06/06/2016**
 
-![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockTime100Hr.ShortTerm.jpg)  
+![alt tag](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-06-06%20FTCTransactionAnalysis/2016-06-06-FTCBlockTime100Hr.ShortTerm.jpg?raw=true)  
 
 
 **FTC Medium term Difficulty variation 06/06/2016**
 
 For this 24 Hour period on 6th June 2016 the peak difficulty was 19, the average is 7. The variation in difficulty was generally between 4 and 10.
 
-![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockDifficulty24Hr.MediumTerm.jpg)  
+![alt tag](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-06-06%20FTCTransactionAnalysis/2016-06-06-FTCBlockDifficulty24Hr.MediumTerm.jpg?raw=true)  
 
 
 **FTC medium term Block time variation 06/06/2016**
 
-![alt tag](2016-06-06 FTCTransactionAnalysis/2016-06-06-FTCBlockTime24Hr.MediumTerm.jpg)  
+![alt tag](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2016-06-06%20FTCTransactionAnalysis/2016-06-06-FTCBlockTime24Hr.MediumTerm.jpg?raw=true)  
 
