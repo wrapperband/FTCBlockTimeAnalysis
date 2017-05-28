@@ -1,6 +1,6 @@
 **Feathercoin - Feathercoin - Analysis of Block Time, Difficulty and Transactions quantity and values.**  
 
-**Overview aand Conclusions**
+**Overview and Conclusions**
 
 This analysis is a routine check of blockchain timings and activity. Over  48 Hours … from 19th to 21/5/2017
 
@@ -100,15 +100,10 @@ This scaled chart shows the value of transactions level.
 
 
 
-**Feathercoin Block Time Average 110 Blocks 26/10/2016**   
+**Feathercoin Block Time Average 10 Blocks 21/05/2017**   
 
 The average block time for the 50 hrs was normal.
 
-![Transaction value](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-05-21%20FTCTransactionAnalysis/2017-05-21-FTCBlockTimes2Day.10BlockAverage.jpg?raw=true)
+![Block Time Average](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-05-21%20FTCTransactionAnalysis/2017-05-21-FTCBlockTimes2Day.10BlockAverage.jpg?raw=true)
 
 
-**Feathercoin Difficulty over 3 hrs early 26/10/2016**   
-
-This chart shows one of the tempoaral anomalies aftet 25/10/2016 at 11:pm till 2:45am. It is a close up of difficulty variation, over 3 hrs or so. 
-
-![Transaction value]( )
