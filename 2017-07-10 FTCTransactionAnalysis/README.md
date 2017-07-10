@@ -34,7 +34,7 @@ The data is accumulated in a text document, then pasted into the spreadsheet tem
 
 **Overview of the 1000 min period up to 10/07/2017**
 
-**FTC Fees over 4 days**   80000   
+**FTC Fees over 1000 Blocks**   80000   
 **Transactions less fees**		2.9M FTC   
 3 %	**Fee to Transaction volume ratio**	    
 **Percentage  Blocks with Transaction**	37.2%	 
