@@ -1,4 +1,4 @@
-#### Feathercoin Transactions and mining Difficulty  3pm to 10 am UK - 1000Blocks  10/07/2017
+### Feathercoin Transactions and mining Difficulty  3pm to 10 am UK - 1000Blocks  10/07/2017
 
 **Feathercoin - Analysis of Block Time, Difficulty and Transactions quantity and values.**  
 
@@ -34,10 +34,10 @@ The data is accumulated in a text document, then pasted into the spreadsheet tem
 **Overview of the 1000 min period up to 10/07/2017**
 
 **FTC Fees over 4 days**   80000   
-**Transactions less fees**		2.9M FTC
-3 %	**Fee to Transaction volume ratio**	
-**Percentage  Blocks with Transaction**	37.2%	
-**Average Block Time 4 days**    1:03 mins
+**Transactions less fees**		2.9M FTC   
+3 %	**Fee to Transaction volume ratio**	    
+**Percentage  Blocks with Transaction**	37.2%	 
+**Average Block Time 4 days**    1:03 mins    
 
 
 

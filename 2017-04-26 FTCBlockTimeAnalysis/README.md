@@ -3,12 +3,12 @@
 A high level of difficulty was reported for 26/4/2017. I’ve done an examination of the Feathercoin Transaction Blocks Difficulty calculation over 1700 blocks. 
 
 **Results:**
-* Number of Blocks analyzed	1704
-* Fees	135,920	FTC
-* Transactions less fees		1,581,801.70 FTC	
-* Transaction to Fee ratio	11.64   Times
-* Percentage with Transaction	24.71 %
-* Number of Blocks with Transactions	421
+* Number of Blocks analyzed	1704  
+* Fees	135,920	FTC  
+* Transactions less fees		1,581,801.70 FTC	  
+* Transaction to Fee ratio	11.64   Times  
+* Percentage with Transaction	24.71 %  
+* Number of Blocks with Transactions	421   
 
 The analysis was from Block   1688676	on 2017-04-25 15:50:30  to 1690375   at	2017-04-26 21:47:00 .
 

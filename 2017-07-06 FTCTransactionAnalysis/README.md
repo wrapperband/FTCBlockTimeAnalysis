@@ -1,4 +1,4 @@
-#### Feathercoin Transactions and mining Difficulty  ~4 Days / 5000Blocks  06/07/2017
+### Feathercoin Transactions and mining Difficulty  ~4 Days / 5000Blocks  06/07/2017
 
 **Feathercoin - Analysis of Block Time, Difficulty and Transactions quantity and values.**  
 
@@ -33,22 +33,22 @@ The data is accumulated in a text document, then pasted into the spreadsheet tem
 
 **Overview of the 5000 min period up to 06/07/2017**
 
-**FTC Fees over 4 days**   400000   (0.4M)
-**Transactions less fees**		49456692.02   (49M FTC)
-1 %	**Fee to Transaction volume ratio**	
-**Percentage  Blocks with Transaction**	32.70%	
-**Average Block Time 4 days**    1:03 mins
+**FTC Fees over 4 days**   400000   (0.4M)  
+**Transactions less fees**		49456692.02   (49M FTC)  
+1 %	**Fee to Transaction volume ratio**	  
+**Percentage  Blocks with Transaction**	32.70%	  
+**Average Block Time 4 days**    1:03 mins  
 
 **Time Anomalies**
 
-**Number Teamporal Anomolies**	12.0
-**Blocks with same block time**  5.0
-**Number Blocks with Low Fee**	3.0
+**Number Teamporal Anomolies**	12.0   
+**Blocks with same block time**  5.0   
+**Number Blocks with Low Fee**	3.0  
 
 **Low Fees**
-1787192	2017-07-06 03:43:28 - Fee 50
-1784136	2017-07-03 22:18:50 - Fee 50
-1782956	2017-07-03 01:48:58 - Fee 50
+1787192	2017-07-06 03:43:28 - Fee 50   
+1784136	2017-07-03 22:18:50 - Fee 50  
+1782956	2017-07-03 01:48:58 - Fee 50  
 
 #### Feathercoin Transaction time data analysis charts 06/07/2017 over 5000 Blocks
 
