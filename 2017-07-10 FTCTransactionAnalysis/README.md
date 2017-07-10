@@ -6,7 +6,7 @@
 
 The Feathercoin difficulty has increased to an average value of 40, equivalent to a 5 times increase in miners. The hash variations is virtually proportional to previous analysis.
 
-This analysis is a check of blockchain timings and activity. Over  5000 Blocks Hours … from 2nd to 06/07/2017
+This analysis is a check of blockchain timings and activity. Over  1000 Blocks  … from 9th to 10/07/2017
 
 The average block time over 1000 Blocks is good at   1:03  mins
 
@@ -18,7 +18,8 @@ There were 4 minor time anomolies in the blockchain timings for the 1000 min tes
  
 There were 2 low fee anomalies paying 50FTC instead of 80.  
 
-Investigation showed these all to be from one p2pool server. Two of the address were investigated as they appeared to be invalid. Without access to the pool logs it is difficult to give an exact reason, but the current theory is an error handling in p2pool triggered the low fee.
+The halving happened correctly to 40 FTC per block.
+
 
 **Feathercoin Block Analysis**
 
