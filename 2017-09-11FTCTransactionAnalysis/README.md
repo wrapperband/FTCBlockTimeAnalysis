@@ -66,3 +66,22 @@ Transactions 1878844   and 1878869  were not done during high hash rate, so had 
 ![FTC Transactions Values 10/09/2017](https://raw.githubusercontent.com/wrapperband/FTC-Wallet-Layout-Examples/master/images/FTC-TransactionValue-10-09-2017.png)
 
 
+
+**Block Difficulty - 11-09-2017**
+
+![FTC Difficulty 11/09/2017](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-09-11FTCTransactionAnalysis/FTC-Difficulty-400-11-09-2017.png?raw=true)
+
+
+**Block Times**
+
+![FTC Block Times 11/09/2017](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-09-11FTCTransactionAnalysis/FTC-BlockTime-400-11-09-2017.png?raw=true)
+
+**Transactions per Block**
+
+![FTC Transactions 11/09/2017](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-09-11FTCTransactionAnalysis/FTC-Transactions-400-11-09-2017.png?raw=true)
+
+**Block Transaction values**
+
+![FTC Transactions Values 11/09/2017](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-09-11FTCTransactionAnalysis/FTC-TransactionValue-400-11-09-2017.png?raw=true)
+
+
