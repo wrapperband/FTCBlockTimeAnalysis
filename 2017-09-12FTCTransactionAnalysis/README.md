@@ -46,39 +46,21 @@ The data is accumulated in a text document, then pasted into the spreadsheet tem
 
 **Block Difficulty**
 
-![FTC Difficulty 10/09/2017](https://github.com/wrapperband/FTC-Wallet-Layout-Examples/blob/master/images/FTC-Difficulty-10-09-2017.png?raw=true)
+![FTC Difficulty 12/09/2017](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-09-12FTCTransactionAnalysis/FTC-Difficulty-12-09-2017.png?raw=true)
 
 **Block Times**
 
-![FTC Block Times 10/09/2017](https://raw.githubusercontent.com/wrapperband/FTC-Wallet-Layout-Examples/9f492945f73443cb8c6b9dd975f4bcdf9a97f3aa/images/FTC-BlockTime-10-09-2017.png)
+![FTC Block Times 12/09/2017](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-09-12FTCTransactionAnalysis/FTC-BlockTime-12-09-2017.png?raw=true)
 
 **Transactions per Block**
 
-![FTC Transactions 10/09/2017](https://github.com/wrapperband/FTC-Wallet-Layout-Examples/blob/master/images/FTC-Transactions-10-09-2017.png?raw=true)
+![FTC Transactions 12/09/2017](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-09-12FTCTransactionAnalysis/FTC-Transactions-12-09-2017.png?raw=true)
 
 **Block Transaction values**
 
-![FTC Transactions Values 10/09/2017](https://raw.githubusercontent.com/wrapperband/FTC-Wallet-Layout-Examples/master/images/FTC-TransactionValue-10-09-2017.png)
+![FTC Transactions Values 12/09/2017](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-09-12FTCTransactionAnalysis/FTC-TransactionValue-12-09-2017.png?raw=true)
 
 
 The block time has settled down to 1:06. The high block rate is still slightly evident. Probably changed to shorter duration burst to reduce difficulty increase.
-
-
-**Block Difficulty - 11-09-2017**
-
-![FTC Difficulty 11/09/2017](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-09-11FTCTransactionAnalysis/FTC-Difficulty-400-11-09-2017.png?raw=true)
-
-
-**Block Times**
-
-![FTC Block Times 11/09/2017](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-09-11FTCTransactionAnalysis/FTC-BlockTime-400-11-09-2017.png?raw=true)
-
-**Transactions per Block**
-
-![FTC Transactions 11/09/2017](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-09-11FTCTransactionAnalysis/FTC-Transactions-400-11-09-2017.png?raw=true)
-
-**Block Transaction values**
-
-![FTC Transactions Values 11/09/2017](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-09-11FTCTransactionAnalysis/FTC-TransactionValue-400-11-09-2017.png?raw=true)
 
 
