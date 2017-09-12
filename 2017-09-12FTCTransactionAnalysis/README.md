@@ -4,13 +4,15 @@
 
 **Overview and Conclusions**
 
-The Feathercoin difficulty has increased to an average value of 36, with peak values near 500. The hash variations is much larger than previous analysis, showing very high levels of hash power being dirrected at FTC. Almost too high possibly indicating a very large pool or some new equipment available to one miner.
+The Feathercoin difficulty has increased to an average value of 36, with peak values near 500 over the last 2 days. The hash variations is much larger than previous analysis, showing very high levels of hash power being dirrected at FTC. Almost too high possibly indicating a very large pool or some new equipment available to one miner.
 
 This analysis is a check of blockchain timings and activity. Over  1000 Blocks  … from 11th to 12/09/2017
 
+Since the high difficulty rates on the 10th the high rates have reduced, in duration.rate
+
 The average block time over 1000 Blocks is good at   1:06  mins
 
-However the number of long maximum block times has increased. The high hash rate has settled in mining Feathercoins approximately every 2 Hours.
+However the number of long maximum block times has increased. The high hash rate "attack" has settled in mining Feathercoins approximately every 2 Hours.
 
 The percentage of blocks with transactions was ~22% of blocks. The transfer to Fee value is also "high" at 3% Value transfered
 
