@@ -65,4 +65,8 @@ The data is accumulated in a text document, then pasted into the spreadsheet tem
 
 The block time has settled down to 1:06. The high block rate is still slightly evident. Probably changed to shorter duration burst to reduce difficulty increase.
 
+**Effect on block time zoomed in***
+
+![FTC Block times 12/09/2017](https://github.com/wrapperband/FTCBlockTimeAnalysis/blob/master/2017-09-12FTCTransactionAnalysis/FTC-BlockTime-12-09-2017zoom.png?raw=true)
+
 
